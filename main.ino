@@ -11,7 +11,7 @@ LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
 #define LEFT_KEY 450
 #define SELECT_KEY 850
 
-const int keypadPin = A0;
+const int keypadPin = A0;//test 
 
 // Stepper Motor Configuration
 const int STEPS_PER_REVOLUTION = 200;
